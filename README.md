@@ -6,6 +6,7 @@ Rain streaks bring complicated pixel intensity changes and additional gradients,
 
 ## Link
 IEEE Xplore: [paper](https://ieeexplore.ieee.org/document/10261252)
+arvix: [paper](https://arxiv.org/abs/2311.00518v1)
 
 百度网盘: [parper、pretrained models and derain results](https://pan.baidu.com/s/1jw9PtvwaBSyPsvoLexpwdA) 
 提取码: 1252
